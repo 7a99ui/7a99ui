@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Akram%20Haggui&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20Data%20and%20AI%20Engineer&descAlignY=58&descSize=24" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Akram%20Haggui&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20AI%20and%20Data%20Engineer&descAlignY=58&descSize=24" width="100%" alt="header" />
 
 <a href="https://github.com/7a99ui">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Computer+Engineering+Graduate+%F0%9F%8E%93;Data+Engineering+%7C+Big+Data+%F0%9F%93%8A;Artificial+Intelligence+and+Deep+Learning+%F0%9F%A4%96;Always+Learning+and+Growing+%F0%9F%9A%80" alt="Typing SVG" />
@@ -29,31 +29,40 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm a **Computer Engineering graduate** from the **Faculty of Sciences of Sfax**, specialized in **Data Engineering**. I love turning raw data into reliable pipelines and intelligent solutions powered by **AI & Machine Learning**.
+I'm a **Computer Engineering graduate** specialized in **AI & Data Engineering**.
+I build the whole journey from **raw data → intelligent systems**: scalable pipelines that feed **LLMs, RAG & AI agents**, and models that understand **text, images and audio**.
 
-- 🎓 &nbsp;Computer Engineer — Faculty of Sciences of Sfax
-- 🔭 &nbsp;Currently exploring **Big Data**, **MLOps** & **Deep Learning**
-- 🌱 &nbsp;Learning: *Spark, Airflow, Kafka, Docker*
-- 💬 &nbsp;Ask me about **Data Engineering, ML, or AI**
-- 🌍 &nbsp;Based in **Tunisia**
-- ⚡ &nbsp;Fun fact: *I never stop learning new tech.*
+> *Great AI starts with great data.* 🚀
+
+- 🎓 &nbsp;Computer Engineer — **Faculty of Sciences of Sfax**
+- 🧠 &nbsp;Exploring **LLMs, RAG & Agentic AI**
+- 🏗️ &nbsp;Designing **ETL / ELT & streaming pipelines** with Spark, Kafka & Airflow
+- 👁️ &nbsp;Passionate about **Computer Vision, NLP & Audio Processing**
+- 🔗 &nbsp;Bridging **Data Engineering × AI** — from ingestion to deployment
+- 💬 &nbsp;Ask me about **data pipelines, LLM apps or machine learning**
+- 🌍 &nbsp;Based in **Tunisia 🇹🇳** — open to opportunities
 
 </td>
 <td width="45%" valign="top">
 
 ```python
 class AkramHaggui:
-    role = "Junior Data & AI Engineer"
+    role = "Junior AI & Data Engineer"
     location = "Tunisia 🇹🇳"
 
-    skills = {
-        "data": ["ETL", "Pipelines", "SQL"],
-        "ai":   ["ML", "Deep Learning", "CV"],
-        "tools":["Docker", "Git", "Linux"],
+    stack = {
+        "ai":   ["LLM", "RAG", "Agents",
+                 "NLP", "CV", "Audio"],
+        "data": ["Spark", "Kafka", "Airflow",
+                 "ETL/ELT", "Streaming"],
+        "ops":  ["Docker", "Git", "Linux"],
     }
 
-    def current_goal(self):
-        return "Build scalable data & AI systems"
+    mission = "Turn raw data into " \
+              "intelligent systems"
+
+    def always(self):
+        return "learning & building 🚀"
 ```
 
 </td>
