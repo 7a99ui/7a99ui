@@ -15,9 +15,8 @@
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/akram-haggui-7a0251275/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:akramhaggui2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -84,31 +83,6 @@ class AkramHaggui:
 
 <br/>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## 🚀 Featured Projects
-
-> 💡 Replace `REPO_NAME_1`, `REPO_NAME_2`… with the names of your best repositories.
-
-<div align="center">
-
-<a href="https://github.com/7a99ui/REPO_NAME_1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=7a99ui&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="project 1" />
-</a>
-<a href="https://github.com/7a99ui/REPO_NAME_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=7a99ui&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="project 2" />
-</a>
-
-<a href="https://github.com/7a99ui/REPO_NAME_3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=7a99ui&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" alt="project 3" />
-</a>
-<a href="https://github.com/7a99ui/REPO_NAME_4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=7a99ui&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" alt="project 4" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Stats
 
@@ -157,9 +131,9 @@ I'm open to **internships, junior positions and collaborations** in Data Enginee
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/akram-haggui-7a0251275/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/7a99ui"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:akramhaggui2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
