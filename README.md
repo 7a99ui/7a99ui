@@ -70,13 +70,76 @@ class AkramHaggui:
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,bash&theme=dark" alt="languages" />
 
-**AI & Machine Learning**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&theme=dark" alt="ai" />
+</div>
 
-**Data Engineering & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,spark,kafka,airflow,hadoop&theme=dark" alt="data" />
+<br/>
 
-**DevOps & Tools**<br/>
+<!-- ───────────── AI ENGINEER ───────────── -->
+<h3 align="center">🤖 AI Engineer</h3>
+
+<div align="center">
+
+**Domains & Concepts**<br/>
+<img src="https://img.shields.io/badge/LLM-7C3AED?style=for-the-badge" alt="LLM" />
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/AI%20Agents-5B21B6?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-4C1D95?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge" alt="NLP" />
+<img src="https://img.shields.io/badge/Computer%20Vision-0284C7?style=for-the-badge" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/Audio%20Preprocessing-0369A1?style=for-the-badge" alt="Audio Preprocessing" />
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Embeddings-14B8A6?style=for-the-badge" alt="Embeddings" />
+<img src="https://img.shields.io/badge/Vector%20Databases-0D9488?style=for-the-badge" alt="Vector Databases" />
+
+<br/><br/>
+
+**Frameworks & Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&theme=dark" alt="ai libs" /><br/><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+</div>
+
+<br/>
+
+<!-- ───────────── DATA ENGINEER ───────────── -->
+<h3 align="center">🗄️ Data Engineer</h3>
+
+<div align="center">
+
+**Domains & Concepts**<br/>
+<img src="https://img.shields.io/badge/ETL-F59E0B?style=for-the-badge" alt="ETL" />
+<img src="https://img.shields.io/badge/ELT-D97706?style=for-the-badge" alt="ELT" />
+<img src="https://img.shields.io/badge/Batch%20Processing-B45309?style=for-the-badge" alt="Batch Processing" />
+<img src="https://img.shields.io/badge/Streaming-E25A1C?style=for-the-badge" alt="Streaming" />
+<img src="https://img.shields.io/badge/Big%20Data-2563EB?style=for-the-badge" alt="Big Data" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-1D4ED8?style=for-the-badge" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/Data%20Modeling-1E40AF?style=for-the-badge" alt="Data Modeling" />
+<img src="https://img.shields.io/badge/Data%20Warehousing-0F766E?style=for-the-badge" alt="Data Warehousing" />
+<img src="https://img.shields.io/badge/Orchestration-047857?style=for-the-badge" alt="Orchestration" />
+
+<br/><br/>
+
+**Big Data, Streaming & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=spark,hadoop,kafka,airflow,postgres,mysql,mongodb&theme=dark" alt="data tools" /><br/><br/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+
+</div>
+
+<br/>
+
+<!-- ───────────── DEVOPS ───────────── -->
+<h3 align="center">⚙️ DevOps & Tools</h3>
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode&theme=dark" alt="tools" />
 
 </div>
