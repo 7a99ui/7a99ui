@@ -62,6 +62,42 @@ class AkramHaggui:
 
 <br/>
 
+<!-- ═══════════════════════════ CONTRIBUTIONS ═══════════════════════════ -->
+## 🐍 Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7a99ui/7a99ui/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7a99ui/7a99ui/output/github-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/7a99ui/7a99ui/output/github-snake-dark.svg" />
+</picture>
+
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=7a99ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7a99ui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=7a99ui&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=7a99ui&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## 🛠️ Tech Stack
 
@@ -141,42 +177,6 @@ class AkramHaggui:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode&theme=dark" alt="tools" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=7a99ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7a99ui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=7a99ui&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=7a99ui&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ CONTRIBUTIONS ═══════════════════════════ -->
-## 🐍 Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7a99ui/7a99ui/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7a99ui/7a99ui/output/github-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/7a99ui/7a99ui/output/github-snake-dark.svg" />
-</picture>
-
 
 </div>
 
