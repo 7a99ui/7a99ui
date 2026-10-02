@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Akram%20Haggui&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20Data%20%26%20AI%20Engineer&descAlignY=58&descSize=24" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Akram%20Haggui&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20Data%20and%20AI%20Engineer&descAlignY=58&descSize=24" width="100%" alt="header" />
 
 <a href="https://github.com/7a99ui">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Computer+Engineering+Graduate+%F0%9F%8E%93;Data+Engineering+%7C+Big+Data+%F0%9F%93%8A;Artificial+Intelligence+%26+Deep+Learning+%F0%9F%A4%96;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Computer+Engineering+Graduate+%F0%9F%8E%93;Data+Engineering+%7C+Big+Data+%F0%9F%93%8A;Artificial+Intelligence+and+Deep+Learning+%F0%9F%A4%96;Always+Learning+and+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -114,9 +114,6 @@ class AkramHaggui:
   <img alt="github snake" src="https://raw.githubusercontent.com/7a99ui/7a99ui/output/github-snake-dark.svg" />
 </picture>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7a99ui&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
 
 </div>
 
